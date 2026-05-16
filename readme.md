@@ -1,6 +1,8 @@
 # Simple Tests in C
 
-Maybe the simplest test kit you'll find.
+Minimal C test kit for defining unit tests.
+Define tests with simple macros and run individual tests by passing the test function name to the binary.
+DAP-friendly — works well with nvim-dap and other Debug Adapter Protocol clients.
 
 Example: 
 
